@@ -16,3 +16,5 @@ To run: `./play <path/to/rom>`
 
 
 ![pong](pong.png)
+
+Cool project - Calvin 
